@@ -1,14 +1,4 @@
 {
-    "workbench.colorCustomizations": {
-        "commandCenter.border": "#15202b99",
-        "editorGroup.border": "#f5f0b0",
-        "sash.hoverBorder": "#f5f0b0",
-        "titleBar.activeBackground": "#f0e883",
-        "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveBackground": "#f0e88399",
-        "titleBar.inactiveForeground": "#15202b99",
-        "tab.activeBorder": "#00ffc8"
-    },
     "editor.tokenColorCustomizations": {
         "textMateRules": [
             {
@@ -27,5 +17,14 @@
     },
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "workbench.colorCustomizations": {
+        "commandCenter.border": "#15202b99",
+        "editorGroup.border": "#f5f0b0",
+        "sash.hoverBorder": "#f5f0b0",
+        "titleBar.activeBackground": "#f0e883",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#f0e88399",
+        "titleBar.inactiveForeground": "#15202b99"
     }
 }
